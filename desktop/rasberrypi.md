@@ -10,6 +10,7 @@
 5. [Lightup - circuit design](https://www.lightup.io/)
 6. [Motion Twin - Games](http://motion-twin.com/en/)
 7. [ClassDojo - The easiest way to share classroom updates, moments and announcements with parents](https://www.classdojo.com/classstory/)
+8. [Remind Communication](https://www.remind.com/features)
 
 
 ##### Online Code Editor
