@@ -2,3 +2,4 @@
 
 ###### Resources
 1. [My adventures with Rasberry Pi](https://www.kidscodecs.com/my-adventures-with-raspberry-pi/)
+2. [10 Best Rasberry Pi Projects](http://www.pcadvisor.co.uk/how-to/desktop-pc/10-great-raspberry-pi-projects-for-kids-3589952/)
