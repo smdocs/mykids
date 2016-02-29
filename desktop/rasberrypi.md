@@ -9,6 +9,7 @@
 4. [Microduino - kids micro robot building kit](https://www.microduino.cc/)
 5. [Lightup - circuit design](https://www.lightup.io/)
 6. [Motion Twin - Games](http://motion-twin.com/en/)
+7. [ClassDojo - The easiest way to share classroom updates, moments and announcements with parents](https://www.classdojo.com/classstory/)
 
 
 ##### Online Code Editor
