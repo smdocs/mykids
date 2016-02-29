@@ -12,3 +12,4 @@
 
 ##### Online Code Editor
 1. [Codeblender](https://codebender.cc/register/)
+2. [Stencyl - develop games with blocks](http://www.stencyl.com/features/)
