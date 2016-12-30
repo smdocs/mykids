@@ -1,3 +1,3 @@
 # Learn to mod
 
-Access: [Learn to mod](http://mod.learntomod.com/
+Access: [Learn to mod](http://mod.learntomod.com/)
